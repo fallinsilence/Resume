@@ -37,14 +37,18 @@
 + 熟练掌握Linux的基本操作
 
 ## 项目经验
-项目名称：督导系统
-项目概述：系统分三种角色，管理员，督导员和一般教师。系统主要的功能是督导员选择听课对象，听课结束填写听课记录，提交审核，管理员审核听课记录，一般教师可以查看自己被听的课的评分和评价。
-技术概要：后台使用的是Spring，Spring MVC，Spring Data JPA，Hibernate JPA，Spring Security框架，前台使用了datatables，jquery-validate等框架
-负责模块：课程管理和审核管理
+项目名称：督导系统  
+
+项目概述：系统分三种角色，管理员，督导员和一般教师。系统主要的功能是督导员选择听课对象，听课结束填写听课记录，提交审核，管理员审核听课记录，一般教师可以查看自己被听的课的评分和评价。  
+
+技术概要：后台使用的是Spring，Spring MVC，Spring Data JPA，Hibernate JPA，Spring Security框架，前台使用了datatables，jquery-validate等框架  
+
+负责模块：课程管理和审核管理  
+
 项目总结：
-1.	在项目编写过程中，学会了datatables和jquery-validate前端框架的使用
-2.	导入excel表添加课表时，可以人性化提示Excel表哪一张表哪一行哪一列格式不规范，方便用户的修改
-3.	项目中2处需要从Excel表格中导入数据，因我有相关经验，所以由我来负责;增加Excel导入方式,方便了用户的使用
+1.在项目编写过程中，学会了datatables和jquery-validate前端框架的使用
+2.导入excel表添加课表时，可以人性化提示Excel表哪一张表哪一行哪一列格式不规范，方便用户的修改
+3.项目中2处需要从Excel表格中导入数据，因我有相关经验，所以由我来负责;增加Excel导入方式,方便了用户的使用
 
 
 ## 个人评价
