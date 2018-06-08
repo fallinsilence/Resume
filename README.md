@@ -1,5 +1,6 @@
 ## 联系方式
 + 手机：18715657608
+
 + Email: 2057035328@qq.com
 
 ## 个人信息
@@ -16,14 +17,23 @@
 
 ## 专业水平
 + 熟练掌握Java基础
+
 + 熟悉HTML，JavaScript，CSS，ajax，jquery等前端技术
+
 + 熟悉jquery-validate，Datatables前端框架的使用
+
 + 熟悉Spring，Spring MVC，Mybatis后端框架的使用
+
 + 熟悉Spring Security安全框架的使用
+
 + 了解Hibernate,jpa的使用
+
 + 熟悉MYSQL数据库
+
 + 熟悉Markdown语法
+
 + 熟练掌握git以及Github的使用
+
 + 熟练掌握Linux的基本操作
 
 ## 项目经验
